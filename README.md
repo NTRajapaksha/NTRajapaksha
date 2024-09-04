@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thathsara Rajapaksha</h1>
-<h3 align="center">A passionate Data Science undergraduate who is interested in Machine Learning and Artificial Intelligence</h3>
+<h3 align="center">An enthusiastic Data Science undergraduate with a deep interest in Machine Learning and Artificial Intelligence.</h3>
 <img align = "right" alt = "Coding"  width = "400" src = "https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
 
 - 🌱 I’m currently learning **Machine Learning related stuff**
