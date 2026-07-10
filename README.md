@@ -6,7 +6,7 @@
 
 <br/>
 
- **☁️ Azure DP-100 Certified** &nbsp;|&nbsp; **🎓 First Class Honours**
+ **☁️ Microsoft/Google Certified** &nbsp;|&nbsp; **🎓 First Class Honours**
 
 </div>
 
