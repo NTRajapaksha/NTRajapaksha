@@ -6,12 +6,12 @@
 
 <br/>
 
-**🏅 National Champion, DataXplore 2024** &nbsp;|&nbsp; **📄 Published Researcher, ICACT 2025** &nbsp;|&nbsp; **☁️ Azure DP-100 Certified** &nbsp;|&nbsp; **🎓 First Class Honours**
+**🥇 1st Place, DataXplore 2025** &nbsp;|&nbsp; **📄 Published, ICACT 2025** &nbsp;|&nbsp; **☁️ Azure DP-100 Certified** &nbsp;|&nbsp; **🎓 First Class Honours**
 
 <br/>
 
 <a href="https://ntrajapaksha.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/thathsara-rajapaksha-834bb2257" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/Thathsara-Rajapaksha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ntratofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
@@ -20,140 +20,84 @@
 
 ### 🧑‍💻 About Me
 
-I'm a **First Class Honours Data Science graduate** working as an **AI Engineer**, building ML and GenAI systems that go beyond the notebook — from data pipeline to deployed, monitored, production-grade model.
+AI Engineer specializing in **production ML systems** — I take models from notebook to deployment, optimizing them for real-world constraints (latency, memory, cost) and building the agentic/GenAI layers on top. Currently shipping computer vision, NLP, and classical ML solutions in production at **Codebell PVT LTD**, with prior freelance work spanning predictive modeling and BI across multiple client domains.
 
-- 🏆 **1st Place — DataXplore**, a national-level Data Science competition organized by the Statistics Society, University of Sri Jayewardenepura
-- 📄 **Published author** — *"Urban Computing for Sustainable Development around the NSBM Green University: A Comparative Study on Transport, Land Use and Air Pollution"*, ICACT International Conference (2025)
-- ☁️ **Microsoft Certified: Azure Data Scientist Associate (DP-100)**
-- 🔭 Currently building **LLM-powered agentic systems** and **production MLOps pipelines**
-- 🌱 Deepening expertise in **RAG architectures, model fine-tuning (LoRA), and applied ML research**
-- 🌐 Full portfolio → **[ntrajapaksha.github.io](https://ntrajapaksha.github.io/)**
+🌐 Full portfolio with case studies → **[ntrajapaksha.github.io](https://ntrajapaksha.github.io/)**
 
 ---
 
-### 🛠️ Tech Stack
+### ⚡ Core Stack
 
-**Programming & Statistical Analysis**
+<div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statistical_Modeling-4B5563?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hypothesis_Testing-4B5563?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/A%2FB_Testing-4B5563?style=for-the-badge"/>
+| | | | | |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>**Python** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/><br/>**Azure** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/><br/>**AWS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/><br/>**PyTorch** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br/>**TensorFlow** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/><br/>**scikit-learn** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/>**Docker** | <img src="https://img.shields.io/badge/-🦜-1C3C3C?style=flat" width="40"/><br/>**LangGraph** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40"/><br/>**SQL** | <img src="https://img.shields.io/badge/-📊-F2C811?style=flat" width="40"/><br/>**Power BI** |
 
-**Data Visualization & Business Intelligence**
+</div>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel_(Advanced)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dashboard_Development-4B5563?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Stakeholder_Reporting-4B5563?style=for-the-badge"/>
+<div align="center">
 
-**Machine Learning & AI**
+*Full stack — statistics, data viz, MLOps, data engineering & full-stack web:*
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep_Learning_(CNN/RNN/Transformers)-4B5563?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Transfer_Learning-4B5563?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AutoML_(Optuna)-4B5563?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Uplift_Modeling-4B5563?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Explainable_AI_(SHAP)-4B5563?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Model_Optimization_(Quantization/Distillation/ONNX)-4B5563?style=for-the-badge"/>
+</div>
 
-**Generative AI & LLMs**
+<details>
+<summary align="center"><b>📂 Click to expand full tech stack</b></summary>
+<br/>
 
-<img src="https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anthropic_Claude-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Meta_Llama-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging_Face_(BERT/DistilBERT/RoBERTa)-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/RAG_Architecture-4B5563?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector_DBs_(ChromaDB/Cosmos_DB)-4B5563?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-4B5563?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic_AI-4B5563?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Fine--tuning_(LoRA)-4B5563?style=for-the-badge"/>
+**Programming & Statistical Analysis:** Python · R · SQL · Java · MATLAB · Statistical Modeling · Hypothesis Testing · A/B Testing
 
-**Cloud & MLOps**
+**Data Visualization & BI:** Power BI · Tableau · Looker · Matplotlib · Seaborn · Plotly · Excel (Advanced) · Dashboard Development · Stakeholder Reporting
 
-<img src="https://img.shields.io/badge/AWS_(SageMaker/Lambda/S3)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_(ML_Studio/Databricks/Functions)-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/GCP_(Vertex_AI/BigQuery)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD_(GitHub_Actions)-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Model_Registry-4B5563?style=for-the-badge"/>
+**Machine Learning & AI:** TensorFlow · PyTorch · Keras · Scikit-learn · Deep Learning (CNNs, RNNs, Transformers) · Transfer Learning · AutoML (Optuna) · Uplift Modeling · Explainable AI (SHAP) · Model Optimization (Quantization, Distillation, ONNX)
 
-**Data Engineering**
+**Generative AI & LLMs:** OpenAI GPT · Anthropic Claude · Google Gemini · Meta Llama · AWS Bedrock · Hugging Face (BERT, DistilBERT, RoBERTa) · RAG Architecture · Vector Databases (ChromaDB, Cosmos DB) · LangChain · LangGraph · Prompt Engineering · Agentic AI · Fine-tuning (LoRA)
 
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white"/>
-<img src="https://img.shields.io/badge/ETL_Pipelines-4B5563?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white"/>
+**Cloud & MLOps:** AWS (SageMaker, Lambda, S3) · Azure (ML Studio, Databricks, Functions, Cosmos DB, Blob Storage, Data Factory) · GCP (Vertex AI, BigQuery) · Supabase · Docker · Kubernetes · MLflow · CI/CD (GitHub Actions) · Model Registry
 
-**Full Stack & API**
+**Data Engineering:** Apache Spark · PySpark · Kafka · Hadoop · Snowflake · MS SQL Server · Delta Lake · ETL Pipelines · Polars
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-4B5563?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microservices-4B5563?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+**Full Stack & API:** Next.js · React · TypeScript · Node.js · Tailwind CSS · Zustand · Framer Motion · FastAPI · Flask · Gradio · Streamlit · REST APIs · Microservices Architecture · HTML · CSS · JavaScript
+
+</details>
 
 ---
 
-### 🚀 What I Work On
+### 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**🤖 Multi-Agent Customer Retention System** — *Azure · Agentic AI & MLOps*
+Autonomous multi-agent system correlating billing data with unstructured complaint logs to calculate real-time churn risk scores. Deployed as a FastAPI microservice on Azure with Vector RAG, achieving **sub-second inference** for automated offer negotiation.
+`Python` `LangGraph` `Google Gemini Flash` `Azure Cosmos DB` `FastAPI` `Docker`
 
-**🧠 Machine Learning & Predictive Modeling**
-Building and evaluating models across classification, regression, and risk-scoring use cases, with a focus on measurable outcomes over model complexity.
+**⚡ Real-Time NBO Engine** — *Azure Databricks · ML at Scale*
+Serverless recommendation engine using Collaborative Filtering (ALS) trained on Apache Spark at enterprise scale, served through Azure Functions with global in-memory caching for **sub-100ms execution latency**.
+`Azure Databricks` `Apache Spark` `ALS` `Azure Functions` `Streamlit`
 
-**🤖 GenAI & Agentic Systems**
-Designing LangGraph-based agents, RAG pipelines, and LLM-powered workflows for automation and decision support.
+**📈 E-Commerce Customer Intelligence Platform** — *Azure · MLOps & BI*
+Medallion Architecture (Bronze → Silver → Gold) processing **100K+ orders**, with a demand forecasting model (R² 0.36), an ALS recommendation engine, and a Power BI "Whale Detector" dashboard for at-risk high-value customers.
+`PySpark` `Delta Lake` `XGBoost` `MLflow` `Power BI` `Docker`
 
-</td>
-<td width="50%" valign="top">
+**💳 Hybrid Credit Risk Engine** — *Risk & Financial Explainability*
+Credit scoring system processing **2.2M+ loan records** with Polars streaming, cutting memory overhead by **87% (8GB → <1GB)**. Calibrated LightGBM to FICO-style scores with Llama 3.2–powered natural-language decision explanations.
+`Python` `LightGBM` `Polars` `Llama 3.2` `Scorecardpy`
 
-**⚙️ MLOps & Production ML**
-End-to-end pipelines — from data ingestion to model monitoring — deployed with Docker/Kubernetes and cloud-native tooling on Azure/AWS.
+**💹 AI Portfolio Intelligence Platform** — *Financial Analytics*
+Automated financial analysis engine combining LangGraph agents with ensemble forecasting (Meta Prophet + Linear Regression), generating risk metrics (Sharpe Ratio, VaR) for 10+ assets while cutting data costs by **90%**.
+`LangGraph` `Google Gemini` `Meta Prophet` `Docker` `Streamlit`
 
-**🔬 Applied ML Research**
-Running controlled experiments (e.g. missing-data imputation strategies, data prep for small models) and publishing findings.
+*→ More projects and detailed case studies on my [portfolio](https://ntrajapaksha.github.io/)*
 
-</td>
-</tr>
-</table>
+---
+
+### 💼 Experience
+
+**AI Engineer** · Codebell PVT LTD · *Feb 2025 – Present*
+Building end-to-end ML pipelines across computer vision, NLP, and traditional ML — optimizing for production with quantization (~40% size reduction), distillation, and caching, while embedding fairness-aware bias mitigation.
+
+**Freelance ML Engineer & Data Analyst** · *Jul 2023 – Feb 2025*
+Delivered end-to-end ML and statistical analysis solutions for diverse clients across predictive modeling, data pipelines, and business analytics.
 
 ---
 
@@ -170,12 +114,21 @@ Running controlled experiments (e.g. missing-data imputation strategies, data pr
 
 ---
 
-### 🏆 Achievements
+### 🏆 Achievements & Certifications
 
-- 🥇 **1st Place — DataXplore**, national-level Data Science competition organized by the Statistics Society of the University of Sri Jayewardenepura
-- 📄 **Published Paper** — *"Urban Computing for Sustainable Development around the NSBM Green University: A Comparative Study on Transport, Land Use and Air Pollution"*, ICACT International Conference (2025)
-- ☁️ Microsoft Certified: **Azure Data Scientist Associate (DP-100)**
-- 🎓 **First Class Honours** — BSc in Data Science
+- 🥇 **1st Place — DataXplore 2025**, national-level Data Science competition by the Statistics Society, University of Sri Jayewardenepura — across EDA, ML, Model Explainability, Time Series, and Statistical Reasoning
+- 📄 **Published Research** — *"Urban Computing for Sustainable Development around the NSBM Green University"*, ICACT International Conference (2025)
+- 🏅 **Top 15 Finalist — Nexora 1.0**, built a RAG model for a university-scenario use case
+- ☁️ **Azure Data Scientist Associate (DP-100)** — Microsoft
+- 🔄 **Azure MLOps Engineer Associate (AI-300)** — Microsoft *(in progress)*
+- 📜 MLOps Specialization (Duke) · Advanced ML on Google Cloud (Google) · Google Advanced Data Analytics · Meta Data Analyst · Google BI · Microsoft Power BI Data Analyst · Deep Learning Specialization (DeepLearning.AI) · Machine Learning Specialization (Stanford)
+
+---
+
+### 🎓 Education
+
+**BSc (Honours) in Data Science** — National School of Business Management (NSBM), Sri Lanka *(2022 – 2025)*
+First Class Honours, GPA 3.76/4.0 · Machine Learning, Deep Learning, Big Data Analytics, Cloud Computing, NLP
 
 ---
 
@@ -183,7 +136,7 @@ Running controlled experiments (e.g. missing-data imputation strategies, data pr
 
 <p align="center">
 <a href="https://ntrajapaksha.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/thathsara-rajapaksha-834bb2257" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/Thathsara-Rajapaksha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ntratofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/__.n_i_m.__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
