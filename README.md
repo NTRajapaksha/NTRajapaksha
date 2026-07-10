@@ -6,13 +6,7 @@
 
 <br/>
 
-**🥇 1st Place, DataXplore 2025** &nbsp;|&nbsp; **📄 Published, ICACT 2025** &nbsp;|&nbsp; **☁️ Azure DP-100 Certified** &nbsp;|&nbsp; **🎓 First Class Honours**
-
-<br/>
-
-<a href="https://ntrajapaksha.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/Thathsara-Rajapaksha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ntratofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ **☁️ Azure DP-100 Certified** &nbsp;|&nbsp; **🎓 First Class Honours**
 
 </div>
 
@@ -20,84 +14,80 @@
 
 ### 🧑‍💻 About Me
 
-AI Engineer specializing in **production ML systems** — I take models from notebook to deployment, optimizing them for real-world constraints (latency, memory, cost) and building the agentic/GenAI layers on top. Currently shipping computer vision, NLP, and classical ML solutions in production at **Codebell PVT LTD**, with prior freelance work spanning predictive modeling and BI across multiple client domains.
+First Class Honours Data Science graduate with a track record of delivering production-ready analytics solutions. I specialize in building ML systems that scale (Azure, GCP), creating dashboards that inform decisions (Power BI, Tableau), and translating complex financial data into clear insights.
 
 🌐 Full portfolio with case studies → **[ntrajapaksha.github.io](https://ntrajapaksha.github.io/)**
 
 ---
 
-### ⚡ Core Stack
+### ⚡ Tech Stack
 
 <div align="center">
 
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>**Python** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/><br/>**Azure** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/><br/>**AWS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/><br/>**PyTorch** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br/>**TensorFlow** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/><br/>**scikit-learn** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/>**Docker** | <img src="https://img.shields.io/badge/-🦜-1C3C3C?style=flat" width="40"/><br/>**LangGraph** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40"/><br/>**SQL** | <img src="https://img.shields.io/badge/-📊-F2C811?style=flat" width="40"/><br/>**Power BI** |
+<sub><b>LANGUAGES & DATA</b></sub><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br/><br/>
+
+<sub><b>BI & VISUALIZATION</b></sub><br/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<br/><br/>
+
+<sub><b>MACHINE LEARNING</b></sub><br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<br/><br/>
+
+<sub><b>GENERATIVE AI & AGENTS</b></sub><br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+
+<br/><br/>
+
+<sub><b>CLOUD</b></sub><br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<br/><br/>
+
+<sub><b>MLOPS & INFRASTRUCTURE</b></sub><br/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+
+<br/><br/>
+
+<sub><b>DATA ENGINEERING</b></sub><br/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+
+<br/><br/>
+
+<sub><b>FULL-STACK WEB</b></sub><br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+<br/><br/>
+
+<sub><b>APIs</b></sub><br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
 </div>
-
-<div align="center">
-
-*Full stack — statistics, data viz, MLOps, data engineering & full-stack web:*
-
-</div>
-
-<details>
-<summary align="center"><b>📂 Click to expand full tech stack</b></summary>
-<br/>
-
-**Programming & Statistical Analysis:** Python · R · SQL · Java · MATLAB · Statistical Modeling · Hypothesis Testing · A/B Testing
-
-**Data Visualization & BI:** Power BI · Tableau · Looker · Matplotlib · Seaborn · Plotly · Excel (Advanced) · Dashboard Development · Stakeholder Reporting
-
-**Machine Learning & AI:** TensorFlow · PyTorch · Keras · Scikit-learn · Deep Learning (CNNs, RNNs, Transformers) · Transfer Learning · AutoML (Optuna) · Uplift Modeling · Explainable AI (SHAP) · Model Optimization (Quantization, Distillation, ONNX)
-
-**Generative AI & LLMs:** OpenAI GPT · Anthropic Claude · Google Gemini · Meta Llama · AWS Bedrock · Hugging Face (BERT, DistilBERT, RoBERTa) · RAG Architecture · Vector Databases (ChromaDB, Cosmos DB) · LangChain · LangGraph · Prompt Engineering · Agentic AI · Fine-tuning (LoRA)
-
-**Cloud & MLOps:** AWS (SageMaker, Lambda, S3) · Azure (ML Studio, Databricks, Functions, Cosmos DB, Blob Storage, Data Factory) · GCP (Vertex AI, BigQuery) · Supabase · Docker · Kubernetes · MLflow · CI/CD (GitHub Actions) · Model Registry
-
-**Data Engineering:** Apache Spark · PySpark · Kafka · Hadoop · Snowflake · MS SQL Server · Delta Lake · ETL Pipelines · Polars
-
-**Full Stack & API:** Next.js · React · TypeScript · Node.js · Tailwind CSS · Zustand · Framer Motion · FastAPI · Flask · Gradio · Streamlit · REST APIs · Microservices Architecture · HTML · CSS · JavaScript
-
-</details>
-
----
-
-### 🚀 Featured Projects
-
-**🤖 Multi-Agent Customer Retention System** — *Azure · Agentic AI & MLOps*
-Autonomous multi-agent system correlating billing data with unstructured complaint logs to calculate real-time churn risk scores. Deployed as a FastAPI microservice on Azure with Vector RAG, achieving **sub-second inference** for automated offer negotiation.
-`Python` `LangGraph` `Google Gemini Flash` `Azure Cosmos DB` `FastAPI` `Docker`
-
-**⚡ Real-Time NBO Engine** — *Azure Databricks · ML at Scale*
-Serverless recommendation engine using Collaborative Filtering (ALS) trained on Apache Spark at enterprise scale, served through Azure Functions with global in-memory caching for **sub-100ms execution latency**.
-`Azure Databricks` `Apache Spark` `ALS` `Azure Functions` `Streamlit`
-
-**📈 E-Commerce Customer Intelligence Platform** — *Azure · MLOps & BI*
-Medallion Architecture (Bronze → Silver → Gold) processing **100K+ orders**, with a demand forecasting model (R² 0.36), an ALS recommendation engine, and a Power BI "Whale Detector" dashboard for at-risk high-value customers.
-`PySpark` `Delta Lake` `XGBoost` `MLflow` `Power BI` `Docker`
-
-**💳 Hybrid Credit Risk Engine** — *Risk & Financial Explainability*
-Credit scoring system processing **2.2M+ loan records** with Polars streaming, cutting memory overhead by **87% (8GB → <1GB)**. Calibrated LightGBM to FICO-style scores with Llama 3.2–powered natural-language decision explanations.
-`Python` `LightGBM` `Polars` `Llama 3.2` `Scorecardpy`
-
-**💹 AI Portfolio Intelligence Platform** — *Financial Analytics*
-Automated financial analysis engine combining LangGraph agents with ensemble forecasting (Meta Prophet + Linear Regression), generating risk metrics (Sharpe Ratio, VaR) for 10+ assets while cutting data costs by **90%**.
-`LangGraph` `Google Gemini` `Meta Prophet` `Docker` `Streamlit`
-
-*→ More projects and detailed case studies on my [portfolio](https://ntrajapaksha.github.io/)*
-
----
-
-### 💼 Experience
-
-**AI Engineer** · Codebell PVT LTD · *Feb 2025 – Present*
-Building end-to-end ML pipelines across computer vision, NLP, and traditional ML — optimizing for production with quantization (~40% size reduction), distillation, and caching, while embedding fairness-aware bias mitigation.
-
-**Freelance ML Engineer & Data Analyst** · *Jul 2023 – Feb 2025*
-Delivered end-to-end ML and statistical analysis solutions for diverse clients across predictive modeling, data pipelines, and business analytics.
 
 ---
 
@@ -111,24 +101,6 @@ Delivered end-to-end ML and statistical analysis solutions for diverse clients a
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=ntrajapaksha&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
-
----
-
-### 🏆 Achievements & Certifications
-
-- 🥇 **1st Place — DataXplore 2025**, national-level Data Science competition by the Statistics Society, University of Sri Jayewardenepura — across EDA, ML, Model Explainability, Time Series, and Statistical Reasoning
-- 📄 **Published Research** — *"Urban Computing for Sustainable Development around the NSBM Green University"*, ICACT International Conference (2025)
-- 🏅 **Top 15 Finalist — Nexora 1.0**, built a RAG model for a university-scenario use case
-- ☁️ **Azure Data Scientist Associate (DP-100)** — Microsoft
-- 🔄 **Azure MLOps Engineer Associate (AI-300)** — Microsoft *(in progress)*
-- 📜 MLOps Specialization (Duke) · Advanced ML on Google Cloud (Google) · Google Advanced Data Analytics · Meta Data Analyst · Google BI · Microsoft Power BI Data Analyst · Deep Learning Specialization (DeepLearning.AI) · Machine Learning Specialization (Stanford)
-
----
-
-### 🎓 Education
-
-**BSc (Honours) in Data Science** — National School of Business Management (NSBM), Sri Lanka *(2022 – 2025)*
-First Class Honours, GPA 3.76/4.0 · Machine Learning, Deep Learning, Big Data Analytics, Cloud Computing, NLP
 
 ---
 
