@@ -1,18 +1,130 @@
-<h1 align="center">Hi 👋, I'm Thathsara Rajapaksha</h1>
-<h3 align="center">An enthusiastic First Class Honours Data Science graduate with a deep interest in Machine Learning and Artificial Intelligence.</h3>
-<img align = "right" alt = "Coding"  width = "400" src = "https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
+<div align="center">
 
-- 🌱 I’m currently learning **Machine Learning related stuff**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Hi%20👋,%20I'm%20Thathsara%20Rajapaksha&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-- 📫 How to reach me **ntratofficial@gmail.com**
+<h3>🎓 First Class Honours Data Science Graduate | 🤖 AI / ML Engineer</h3>
+<p>Building production-grade Machine Learning systems — from data pipelines to deployed, monitored models.</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thathsara-rajapaksha-834bb2257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thathsara-rajapaksha-834bb2257" height="30" width="40" /></a>
-<a href="https://instagram.com/__.n_i_m.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.n_i_m.__" height="30" width="40" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;MLOps+%26+Model+Deployment;Building+Intelligent+Systems;Turning+Data+Into+Decisions" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/img/line.svg" width="100%"/>
+
+### 🧑‍💻 About Me
+
+- 🔭 Currently working as an **AI Engineer**, building and deploying ML systems in production environments
+- 🌱 Deepening my expertise in **MLOps, LLM-powered agents (LangGraph), and applied ML research**
+- 🏆 Microsoft Certified: **Azure Data Scientist Associate (DP-100)**
+- 📝 Author of research write-ups on missing-data strategies and ML experimentation
+- 💡 Passionate about turning messy real-world data into reliable, measurable business impact
+- 📫 Reach me at **ntratofficial@gmail.com**
+- 🌐 Check out my full portfolio → **[ntrajapaksha.github.io](https://ntrajapaksha.github.io/)**
+
+<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/img/line.svg" width="100%"/>
+
+### 🛠️ Tech Stack
+
+<p align="center">
+<strong>Languages</strong><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+<strong>Machine Learning & Data Science</strong><br/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntrajapaksha&show_icons=true&locale=en&layout=compact" alt="ntrajapaksha" /></p>
+<p align="center">
+<strong>MLOps, Cloud & Deployment</strong><br/>
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+<p align="center">
+<strong>Databases & Web</strong><br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/img/line.svg" width="100%"/>
+
+### 🚀 What I Work On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 Machine Learning & Predictive Modeling**
+Building and evaluating models across classification, regression, and risk-scoring use cases, with a focus on measurable outcomes over model complexity.
+
+**🤖 GenAI & Agentic Systems**
+Designing LangGraph-based agents and LLM-powered workflows for automation and decision support.
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ MLOps & Production ML**
+End-to-end pipelines — from data ingestion to model monitoring — deployed with Docker and cloud-native tooling on Azure/AWS.
+
+**🔬 Applied ML Research**
+Running controlled experiments (e.g. missing-data imputation strategies, data prep for small models) and writing up findings.
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/img/line.svg" width="100%"/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ntrajapaksha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntrajapaksha&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=ntrajapaksha&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/img/line.svg" width="100%"/>
+
+### 🏆 Achievements
+
+- 🥇 Microsoft Certified: **Azure Data Scientist Associate (DP-100)**
+- 🎓 **First Class Honours** — BSc in Data Science
+- 🏅 Competition winner — *(add competition name here)*
+- 📄 Co-authored a conference paper on *(add topic/title here)*
+
+<img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/img/line.svg" width="100%"/>
+
+### 🌐 Connect With Me
+
+<p align="center">
+<a href="https://ntrajapaksha.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/thathsara-rajapaksha-834bb2257" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ntratofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/__.n_i_m.__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
